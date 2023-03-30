@@ -1,5 +1,4 @@
 # Functional-Programming-in-OCaml
-Assignments and Project Assessments for Caltech's Winter 2023 Course CS 4: Fundamentals of Computer Programming.
 
 Resources for the labs and assessments can be found at the following links
 - [Course Website: The CS 4 Book (Winter 2023)](https://mvanier.github.io/cs4/Winter2023/book/)
@@ -10,4 +9,4 @@ Resources for the labs and assessments can be found at the following links
 ## Caltech's Honor Code
 "No member of the Caltech community shall take unfair advantage of any other member of the Caltech community."
 
-For any students currently enrolled in CS 4, the files in this repository are subject to Caltech's Honor Code and as such, should not be referenced until completing the course.
+For any students currently enrolled in this course, the files in this repository are subject to Caltech's Honor Code and as such, should not be referenced until completing the course.
